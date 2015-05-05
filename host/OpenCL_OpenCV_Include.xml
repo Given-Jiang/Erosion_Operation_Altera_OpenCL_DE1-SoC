@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C++ Source File">
+<includepath>E:\SOC_SDK\Quartus\hld\host\include</includepath>
+<includepath workspace_path="true">/${ProjName}/common/inc</includepath>
+<includepath>E:\SOC_SDK\SOCEDS\embedded\ds-5\include\opencv</includepath>
+<includepath>E:\SOC_SDK\SOCEDS\embedded\ds-5\include\opencv\opencv</includepath>
+<includepath>E:\SOC_SDK\SOCEDS\embedded\ds-5\include\opencv\opencv2</includepath>
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C++ Source File">
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>
